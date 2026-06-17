@@ -11,10 +11,7 @@
 </p>
 
 ---
-
-> *"In a world where everyone ships AI wrappers — I chose to understand what's under the hood."*
 > MS ECE @ Northeastern · ML & CV · 1.5 yrs SWE @ Guardian Life · Targeting NVIDIA · Qualcomm · AMD 🎯
-
 ---
 
 ## 🛠️ Stack
