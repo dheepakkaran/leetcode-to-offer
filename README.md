@@ -9,6 +9,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1200&color=58A6FF&center=true&vCenter=true&width=520&lines=Asked+ChatGPT+to+solve+LC75...;It+said+'here's+the+solution.';I+said+'not+like+this.'+%F0%9F%92%80;Building+every+pattern+from+scratch+%E2%86%92+NVIDIA." alt="Typing SVG"/>
 </p>
+
 > MS ECE @ Northeastern · ML & CV · 1.5 yrs SWE @ Guardian Life · Targeting NVIDIA · Qualcomm · AMD 🎯
 ---
 
