@@ -29,22 +29,6 @@
 
 ---
 
-## 🧩 LeetCode 75 — *The Gauntlet*
-
-> *"Perfectly balanced solutions — O(n) time, O(1) space. As all things should be."* 🟠
-
-**`13 / 75`**
-```
-█████░░░░░░░░░░░░░░░░░░░░░░░░░  17%
-```
-
-| Topic | Progress |
-|---|---|
-| Array / String | `9/9` ✅ |
-| Two Pointers | `4/4` ✅ |
-| Sliding Window | `0/4` 🔴 |
-
----
 
 ## 📊 Stats
 
